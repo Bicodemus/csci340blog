@@ -3,7 +3,7 @@ layout: post
 title: Introduction Post
 date: 2019-09-16
 ---
-<<<<<<< HEAD
+
 
 While setting up this blog, I had to use the terminal. I had previously used
 the terminal, but it was kinda confusing to me still. I didn't know that I
@@ -20,5 +20,3 @@ I am looking forward to:
 
 [brew]: http://brew.sh
 [font]: https://fonts.google.com/
-=======
->>>>>>> master
