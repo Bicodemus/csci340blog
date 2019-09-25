@@ -24,9 +24,9 @@ looking forward to the most, so that I am comfortable editing any part of my blo
 and I can do it at any time.
 
 Also while working on this blog, I chose to put my own background image, which looks pretty cool to me,
-this is it ![background](/images/background.png)
+this is it ![background](/csci340blog/images/background.png)
 
-This image is rather large! I didn't expect it to be this big on the post, but I 
+This image is rather large! I didn't expect it to be this big on the post, but I
 am going to leave it this way, because one day i will have a large photo that I will
 need to shrink, and it will show progress.
 
