@@ -3,7 +3,7 @@ title:              CSCI 340 Blog
 bio:                'A blog for me'
 description:        "A blog I am creating for my CSCI 340 class at Hendrix College"
 locale:             en_US
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/csci340blog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
 # Comments
