@@ -4,7 +4,7 @@ bio:                'A blog for me'
 description:        "A blog I am creating for my CSCI 340 class at Hendrix College"
 locale:             en_US
 baseurl: "/csci340blog" # the subpath of your site, e.g. /blog
-url: "bicodemus.github.io" # the base hostname & protocol for your site
+url: "" # the base hostname & protocol for your site
 
 # Comments
 disqus_shortname:   default
