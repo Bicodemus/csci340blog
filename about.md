@@ -1,27 +1,31 @@
 ---
 layout: page
-title: Jekyll Theme - About - Massively
-description: When building a website it's helpful to see what the focus of your site is. This page is an example of how to show a website's focus.
-sitemap:
-    priority: 0.7
-    lastmod: 2017-11-02
-    changefreq: weekly
+title: About Me
+description: A little bit about me the author
 ---
-## About our Site
+## About Me
 
-<span class="image left"><img src="{{ "/images/pic04.jpg" | absolute_url }}" alt="" /></span>
+As of writing this I am a Junior at Hendrix College. My major is Biochemistry and
+Molecular Biology. I am also hoping that I can get at least a minor in Computer
+Science, but I will also try for a major if i can. The class I am creating this blog for
+is my CSCI 340 class, Database and Web-systems. In this I am in a group with 5 other
+people and we are working with our local Salvation Army to help them create a website
+and database so that they can more efficiently recruit and dispatch volunteers.
 
-Making steady content and conveying it well takes a great deal of research and, hence, time and exertion. Building a profound established comprehension of your target customer needs is critical as your principle objective ought to be to fulfill their requirements as awesome content. You should need to enhance their lives. Having significant content like this may not be simple by any methods. Be that as it may, in any case, it's a fundamental apparatus in the event that you expect to grow a fruitful and supportable business in the present web focused world.
+## My Hobbies
+I don't have many hobbies, as I like to stick to one thing and get pretty good at it,
+and I will spend a lot of time trying to do so. I really enjoy playing video games
+and my all time favorite one is League of Legends. I have spent [countless hours][lol] on it,
+and I think of myself as pretty good at it, but no where near the top level. That is okay for me,
+because mostly I just want to be better than my friends. I also really enjoy Rocket League,
+which is basically car soccer. If you don't know what it is, I would recommend checking it out, just
+to see what it is like. I can't think of any other games like it, and the skill ceiling is way to high
+for me, but I want to spend more time on it so that I can get better.
 
-Receiving the benefits of content is a certain something. Be that as it may, it's so substantially less demanding once you begin conveying all the more successfully. The profitable content thought isn't just about bragging your item's capacities and general worth or your organization's achievements. You should concentrate less on advertising how awesome your item is and rather concentrate on indicating how valuable it is. This is a client focused approach as it concentrates on their issues and your answer for them. Making yourself fundamental is critical.
+Aside from video games, I don't have many real hobbies. However I do enjoy programming
+as I see it like a puzzle. I don't really enjoy all of the web design that I have to do
+however, because to me it seems much more like an art where you have to think about
+how everything is going to mesh together to look nice. 
 
-### Content is Imortant
-<div class="box">
-  <p>
-  In saying that, a one-measure fits-all approach won't do the trick with regards to content promoting. Rather, an emphasis on making remarkable, high caliber and totally genuine content that is engaging, helpful and fascinating for customers will get you the crown. From content, video and symbolism to infographics, studies, online courses and podcasts, whatever your favored content medium is, guarantee it is shareable and pertinent to your industry.
-  </p>
-</div>
 
-<span class="image left"><img src="{{ "/images/pic05.jpg" | absolute_url }}" alt="" /></span>
-
-On social media, we may share our own thoughts and advance our image notwithstanding spreading musings for different associations and affiliations. With such a critical number of associations with people and relationship on social media, our experience can be over-burden with a considerable measure of information.
+[lol]: https://wol.gg/stats/na/nicodemus/
